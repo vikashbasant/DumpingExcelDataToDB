@@ -1,4 +1,4 @@
-package com.kash.DumpingExcelDataToDB;
+package com.kash;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
